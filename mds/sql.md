@@ -1,6 +1,6 @@
 # SQL (Structure Query Language)
 
-## Table of Content
+## Table of Contents
 
 - [Introduction](#introduction)
 - [SQL Statements](#sql-statements)
