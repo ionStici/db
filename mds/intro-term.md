@@ -1,6 +1,13 @@
 # Introductory Terminology
 
-## Database
+## Table of Contents
+
+- [What is a Database](#what-is-a-database)
+- [Relational Database](#relational-database)
+- [Relational Database Management System (RDBMS)](#relational-database-management-system-rdbms)
+- [SQL (Structured Query Language)](#sql-structured-query-language)
+
+## What is a Database
 
 A **database** is a **structured collection of data** that is stored, managed, and accessed via a computer system. It allows for the efficient **storage, retrieval, and manipulation** of data. Typically, databases are managed by **Database Management Systems (DBMS)**, which provide interfaces for interacting with the data. These systems allow for operations such as **querying, updating**, and **managing** data in a structured way.
 

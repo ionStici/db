@@ -67,14 +67,14 @@ DROP DATABASE database_name;
 PostgreSQL uses **roles** to manage authentication and permissions. Roles can be **superusers** or have more restricted privileges.
 
 ```sql
+-- List Users (Roles)
+\du
+
 -- Create a new User
 CREATE ROLE user_name WITH LOGIN PASSWORD 'your_password';
 
 -- Granting Superuser Privileges (full control over the database)
 ALTER ROLE user_name WITH SUPERUSER;
-
--- List Users (Roles)
-\du
 
 -- Grant Specific Privileges
 GRANT ALL PRIVILEGES ON DATABASE database_name TO user_name;

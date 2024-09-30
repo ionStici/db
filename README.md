@@ -1,7 +1,5 @@
 # Database Management Systems
 
-- [SQL Documentation by Codecademy](https://www.codecademy.com/resources/docs/sql/about-sql)
-
 ### Introduction
 
 - [Introductory Terminology](./mds/intro-term.md)
@@ -17,3 +15,9 @@
 ### Populating
 
 - [Database Schema and Data Types](./mds/database-schema.md)
+- [Database Keys](./mds/keys.md)
+- [Database Relationships](./mds/relationships.md)
+
+### Constraints
+
+- Draft: [Constraints](./mds/draft-constraints.md)
